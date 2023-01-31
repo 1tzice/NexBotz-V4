@@ -27,11 +27,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/l4c1f2r'
-global.syt = 'https://youtube.com/@Putra_Modz_'
+global.sig = 'https://instagram.com/yzwony'
+global.syt = 'https://youtube.com/@yzwony'
 global.sgh = 'https://github.com/Lucife-Putra'
 global.sgc = 'hhttps://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.swa = 'wa.me/682214729677'
+global.swa = 'wa.me/687829418915'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -44,10 +44,10 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
-global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nomorbot = '62895804749060'
+global.nomorown = '6287829418915'
+global.namebot = 'hxicon'
+global.nameown = 'yzwony'
 
 
 /*============== STAFF ==============*/
@@ -55,7 +55,7 @@ global.owner = [
   ['6282214729677'],
   ['6283863727733'],
   ['62838637277192'],
-  ['6282214729677', 'PutraModz', true]
+  ['6287829418915', 'yzwony', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
